@@ -1,7 +1,7 @@
 # Hi! It's Nymur ! 
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
-##### --- nymur@vasonite.com 
-##### --- vasonite.com
+ --- nymur@vasonite.com 
+ --- vasonite.com
 
 #### -- Languages I know 
 <p align="center">
