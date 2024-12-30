@@ -4,7 +4,7 @@
     <a href="mailto:nymur@vasonite.com">nymur@vasonite.com</a>  
 </p>
 
--- Languages I know 
+#### -- Languages I know 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/PHP-464646?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/JavaScript-464646?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
-## 🛠️ Technologies
+#### -- Technologies
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-464646?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/SQLite-464646?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
