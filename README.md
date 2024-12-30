@@ -5,17 +5,9 @@
 
 <div style="font-family: 'Courier New', monospace; border: 2px solid black; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 5px 5px 0px black; max-width: 400px; margin: auto;">
 
-<b>Programming Languages:</b>
-- Python
-- JavaScript
-- C++
-- Java
-- HTML & CSS
-- Kotlin
 
-</div>
 
-### `Certifications`
+### Certifications
 
 
 
