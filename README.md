@@ -49,5 +49,5 @@
 
 <div align="left">
   <img src="comptia.png" height="70" alt="CompTIA Security+ Certified CE Logo" />
-  <img src="GoogleCyber.png" height="80" alt="CompTIA Security+ Certified CE Logo" />
+  <img src="GoogleCyber.png" height="90" alt="CompTIA Security+ Certified CE Logo" />
 </div>
