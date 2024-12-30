@@ -8,26 +8,28 @@
     </a>
 </p>
 
+### Languages I know 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/PHP-282828?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-282828?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Kotlin-282828?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PHP-2D2D2D?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/C-2D2D2D?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Kotlin-2D2D2D?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/C%23-2D2D2D?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
-## 🛠️ Technologies
+### Tech
 <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-282828?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/SQLite-282828?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/SQL-282828?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Bootstrap-282828?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/WordPress-282828?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-    <img src="https://img.shields.io/badge/Unity-282828?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/MongoDB-2D2D2D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/SQLite-2D2D2D?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/SQL-2D2D2D?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/Bootstrap-2D2D2D?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/WordPress-2D2D2D?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+    <img src="https://img.shields.io/badge/Unity-2D2D2D?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
+
 
 
 
