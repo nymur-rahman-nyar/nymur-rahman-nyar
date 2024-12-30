@@ -29,7 +29,7 @@
 #### -- Certification
 <p align="center">
     <img src="https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate-green?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certified-green?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
 </p>
 
 
