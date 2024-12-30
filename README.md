@@ -1,5 +1,7 @@
 # It's Nymur ! 
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
+<img src="computer.gif" alt="Your Alt Text" align="right" width="100" height="100">
+
 #### `Contacts` 
     nymur@vasonite.com
 
