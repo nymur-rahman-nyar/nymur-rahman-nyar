@@ -1,5 +1,6 @@
 # Nymur Rahman Nyar
-### Web Dev | Cyber Security Enthusiast | CS Major @ ualberta  
+### Web Dev | Cyber Security Enthusiast | CS Major @ ![University of Alberta](https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/University_of_Alberta_Coat_of_Arms.svg/1200px-University_of_Alberta_Coat_of_Arms.svg.png) Alberta
+
 
 ###
 
