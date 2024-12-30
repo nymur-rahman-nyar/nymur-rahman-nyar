@@ -2,13 +2,6 @@
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
 
-###
-
-<div style="font-family: 'Courier New', monospace; border: 2px solid black; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 5px 5px 0px black; max-width: 400px; margin: auto;">
-
-
-
-
 ## 💻 Languages I Know
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
