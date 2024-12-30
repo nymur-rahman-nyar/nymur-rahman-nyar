@@ -1,4 +1,4 @@
-# Nymur Rahman Nyar  
+# Hi! It's Nymur ! 
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
 
