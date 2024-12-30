@@ -1,6 +1,6 @@
 # Hi! It's Nymur ! 
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
-`mail` nymur@vasonite.com
+<p> `mail` nymur@vasonite.com </p>
 `web` www.vasonite.com
 <a href="https://www.linkedin.com/in/nymur-rahman-n-24b9ba265/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
