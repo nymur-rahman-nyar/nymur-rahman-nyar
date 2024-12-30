@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Technologies
-![MongoDB](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&label=)
-![SQLite](https://img.shields.io/badge/-003B57?style=for-the-badge&logo=sqlite&label=)
+![MongoDB](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&label=black)
+![SQLite](https://img.shields.io/badge/-003B57?style=for-the-badge&logo=sqlite&label=black)
 ![SQL](https://img.shields.io/badge/-003B57?style=for-the-badge&logo=databricks&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
