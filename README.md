@@ -1,9 +1,8 @@
 # Hi! It's Nymur ! 
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
- --- nymur@vasonite.com 
- --- vasonite.com
 
-#### -- Languages I know 
+
+#### `Languages I know ` 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/PHP-464646?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -15,7 +14,7 @@
     <img src="https://img.shields.io/badge/JavaScript-464646?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
-#### -- Technologies
+#### `Technologies`
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-464646?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/SQLite-464646?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -25,7 +24,7 @@
     <img src="https://img.shields.io/badge/Unity-464646?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
-#### -- Certification
+#### `Certification`
 <p align="center">
     <img src="https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certified-green?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
