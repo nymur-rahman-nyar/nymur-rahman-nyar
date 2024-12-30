@@ -48,7 +48,7 @@
 ### Certifications
 
 <div align="left">
-  <img src="./SecurityPlus Logo Certified CE.png" height="80" alt="CompTIA Security+ Certified CE Logo" />
+  <img src="comptia.png" height="80" alt="CompTIA Security+ Certified CE Logo" />
   <img width="20" />
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?style=flat-square&logo=google&logoColor=white" height="25" alt="Google Cybersecurity Certificate" />
 </div>
