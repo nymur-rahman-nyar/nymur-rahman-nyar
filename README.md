@@ -12,8 +12,7 @@
 </svg>
 
 
-### Web Dev | Cyber Security Enthusiast | CS Major @  
-<img src="./ua_logo_green_rgb.png" alt="University of Alberta" width="300">
+### Web Dev | Cyber Security Enthusiast | CS Major @uAlberta
 
 
 ###
