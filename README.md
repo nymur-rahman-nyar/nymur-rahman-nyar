@@ -4,7 +4,7 @@
     <a href="mailto:nymur@vasonite.com">nymur@vasonite.com</a>  
 </p>
 
-### Languages I know 
+-- Languages I know 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/PHP-464646?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -26,16 +26,6 @@
     <img src="https://img.shields.io/badge/Unity-464646?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
-<div align="center" style="background-color: #464646; padding: 20px; border-radius: 10px;">
-    <img src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/PHP-464646?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/C-464646?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/HTML5-464646?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-464646?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Kotlin-464646?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/C%23-464646?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/JavaScript-464646?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-</div>
 
 
 
