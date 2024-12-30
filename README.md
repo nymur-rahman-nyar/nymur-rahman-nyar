@@ -16,7 +16,7 @@
 
 <h3 align="center">🚀 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nymur-rahman" target="_blank">
+  <a href="[https://www.linkedin.com/in/nymur-rahman](https://www.linkedin.com/in/nymur-rahman-n-24b9ba265/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/nymur-rahman-nyar" target="_blank">
