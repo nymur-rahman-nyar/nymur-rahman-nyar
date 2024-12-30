@@ -1,5 +1,5 @@
 # Nymur Rahman Nyar
-### Web Dev | Cyber Security Enthusiast | CS Major @ ualberta  
+Developer | Cyber Security Enthusiast | CS Major @ ualberta  
 
 ###
 
