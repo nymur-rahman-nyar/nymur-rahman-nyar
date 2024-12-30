@@ -26,11 +26,7 @@
     <img src="https://img.shields.io/badge/Unity-464646?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
-
-
-
-
-## 🏆 Certifications
+#### -- Certification
 <p align="center">
     <img src="https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certificate-green?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
