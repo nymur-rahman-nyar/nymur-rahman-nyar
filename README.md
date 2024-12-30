@@ -1,17 +1,4 @@
 # Nymur Rahman Nyar  
-
-<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background bar -->
-  <rect width="400" height="50" rx="10" fill="darkgreen" />
-  
-  <!-- Glowing bar -->
-  <rect width="300" height="50" rx="10" fill="limegreen">
-    <animate attributeName="width" from="100" to="300" dur="1.5s" repeatCount="indefinite" />
-    <animate attributeName="opacity" from="0.7" to="1" dur="1.5s" repeatCount="indefinite" />
-  </rect>
-</svg>
-
-
 ### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
 
