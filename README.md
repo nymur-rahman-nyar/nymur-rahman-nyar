@@ -4,7 +4,7 @@
 
 #### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
-#####
+
 #### `Contacts` 
     nymur@vasonite.com
 
