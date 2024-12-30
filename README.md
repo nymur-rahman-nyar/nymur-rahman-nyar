@@ -17,10 +17,7 @@
 
 ### Certifications
 
-<div align="left">
-  <img src="comptia.png" height="70" alt="CompTIA Security+ Certified CE Logo" style="margin-right: 20px;" />
-  <img src="GoogleCyber.png" height="70" alt="Google Cybersecurity Certificate Logo" />
-</div>
+
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certificate-green?style=for-the-badge&logo=google&logoColor=white)
