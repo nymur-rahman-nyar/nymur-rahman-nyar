@@ -28,3 +28,13 @@
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certificate-green?style=for-the-badge&logo=google&logoColor=white)
+
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nymur-rahman-nyar/count.svg?"  />
+</div>
+
+###
