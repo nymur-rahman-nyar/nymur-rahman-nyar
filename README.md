@@ -12,7 +12,7 @@
 </svg>
 
 
-### Web Dev | Cyber Security Enthusiast | CS Major @uAlberta
+### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
 
 ###
