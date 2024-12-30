@@ -1,5 +1,5 @@
 # Nymur Rahman Nyar
-### Web Dev | Cyber Security Enthusiast | Student  
+### Web Dev | Cyber Security Enthusiast | CS Major @ ualberta  
 
 ###
 
@@ -52,9 +52,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nymur-rahman-n-24b9ba265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="./SecurityPlus Logo Certified CE.png" height="80" alt="CompTIA Security+ Certified CE Logo" />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?style=for-the-badge&logo=google&logoColor=white" height="35" alt="Google Cybersecurity Certificate" />
 </div>
-
-###
