@@ -29,6 +29,9 @@
     <img src="https://img.shields.io/badge/Bootstrap-464646?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/WordPress-464646?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     <img src="https://img.shields.io/badge/Unity-464646?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+    <img src="https://img.shields.io/badge/EJS-4E4E4E?style=for-the-badge&logo=javascript&logoColor=white" alt="EJS">
 </p>
 
 #### `Certification`
