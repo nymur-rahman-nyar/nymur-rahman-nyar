@@ -1,5 +1,4 @@
 # It's Nymur ! 
-~*~ www.vasonite.com ~*~
 <img src="computer.gif" alt="Your Alt Text" align="right" width="100" height="100">
 
 #### Developer | Cyber Security Enthusiast | CS Major @uAlberta
@@ -34,11 +33,7 @@
     <img src="https://img.shields.io/badge/EJS-464646?style=for-the-badge&logo=javascript&logoColor=white" alt="EJS">
 </p>
 
-#### `Certification`
-<p align="center">
-    <img src="https://img.shields.io/badge/CompTIA%20Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity-Certified-green?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity">
-</p>
+
 
 
 
