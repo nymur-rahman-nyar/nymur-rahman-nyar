@@ -4,7 +4,7 @@
 
 #### Developer | Cyber Security Enthusiast | CS Major @uAlberta
 
-![Animated banner](./assets/skills-banner.svg)
+![Animated banner](./skills-banner.svg)
 
 **Programming Languages:** Python, Java, JavaScript, PHP, Kotlin, C, C#, SQL, HTML, CSS
 
