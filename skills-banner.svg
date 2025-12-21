@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Skills banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="0.5" stop-color="rgba(255,255,255,0.18)"/>
+      <stop offset="1" stop-color="rgba(0,0,0,0)"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="140" rx="18" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.12">
+    <path d="M0 35 H900 M0 70 H900 M0 105 H900" stroke="#93c5fd" stroke-width="1"/>
+    <path d="M90 0 V140 M180 0 V140 M270 0 V140 M360 0 V140 M450 0 V140 M540 0 V140 M630 0 V140 M720 0 V140 M810 0 V140"
+          stroke="#93c5fd" stroke-width="1"/>
+  </g>
+
+  <!-- Title -->
+  <text x="36" y="56" fill="#e5e7eb" font-size="26" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">
+    Skills Snapshot
+  </text>
+  <text x="36" y="92" fill="#9ca3af" font-size="16" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">
+    Languages • Web • Mobile • DevOps • Testing
+  </text>
+
+  <!-- Animated sweep highlight -->
+  <g filter="url(#softGlow)">
+    <rect x="-260" y="18" width="260" height="104" rx="14" fill="url(#sweep)" opacity="0.9">
+      <animate attributeName="x" from="-260" to="900" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Accent dots -->
+  <circle cx="820" cy="45" r="5" fill="#60a5fa" opacity="0.9"/>
+  <circle cx="845" cy="45" r="5" fill="#34d399" opacity="0.9"/>
+  <circle cx="870" cy="45" r="5" fill="#fbbf24" opacity="0.9"/>
+</svg>
