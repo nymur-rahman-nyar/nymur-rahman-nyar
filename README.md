@@ -1,8 +1,6 @@
-# It's Nymur !
-
-<img src="./assets/computer.gif" alt="Your Alt Text" align="right" width="100" height="100">
-
-#### Developer | Cyber Security Enthusiast | CS Major @uAlberta
+<div align="center">
+  <img src="./assets/intro.svg" alt="Hacker typing intro" width="100%" />
+</div>
 
 **Programming Languages:** Python, Java, JavaScript, PHP, Kotlin, C, C#, SQL, HTML, CSS
 
