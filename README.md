@@ -2,6 +2,9 @@
   <img src="./assets/intro.svg" alt="Hacker typing intro" width="100%" />
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+
 **Programming Languages:** Python, Java, JavaScript, PHP, Kotlin, C, C#, SQL, HTML, CSS
 
 **Technologies:** MongoDB, Express.js, React, Node.js, WordPress, Firebase, Git, GitHub
